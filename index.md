@@ -7,4 +7,4 @@ image: null
 author: null
 ---
 
-CEO of Creative Engineers. I have 8+ years of experience in the field of Website Deveopment and Software Solution and 4+ years of experience in the field of Stock Market, Algo Trading and Financial Engineering.
+CEO of Creative Engineers. I have 8+ years of experience in the field of Website Development and Software Solution and 4+ years of experience in the field of Stock Market, Algo Trading and Financial Engineering.
