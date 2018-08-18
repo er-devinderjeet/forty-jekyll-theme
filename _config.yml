@@ -3,7 +3,7 @@ title: Creative Devinderjeet
 subtitle: Web Developer #by HTML5 UP
 email: youremailaddress@gmail.com
 description: Creative Website and Software Developer, Financial Engineer, Algo Trader<br /> and Creative Personality for Web and Software Solution.
-baseurl: "/forty-jekyll-theme-master/" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
