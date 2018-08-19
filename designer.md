@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Website Designer
-description: Lorem ipsum dolor est
+description: Mockup Design, HTML5, CSS3, jQuery  
 image: assets/images/pic11.jpg
 nav-menu: true
 ---

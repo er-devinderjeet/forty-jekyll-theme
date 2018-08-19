@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Logo Desgining
+title: Logo Designing
 description: 'Logo Design and Photoshop'
 image: assets/images/pic07.jpg
 nav-menu: true

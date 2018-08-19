@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: PHP Developer
-description: 'Logo Design and Photoshop'
+description: 'Website Developement'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
