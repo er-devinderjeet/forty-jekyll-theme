@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Algo Trader
-description: Lorem ipsum dolor est
+description:
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
