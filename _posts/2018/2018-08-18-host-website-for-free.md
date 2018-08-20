@@ -1,6 +1,7 @@
 ---
 layout: post
-description: Feugiat amet tempus
+title: Host Website at Zero Cost
+description: 
 image: assets/images/pic06.jpg
 
 
@@ -23,6 +24,6 @@ Here are some of the main advantages of static site generators over dynamic site
 
 **Flexibility** – you know exactly how your site works, as you made it from scratch.
 
-With the help of Jekyll or Middleman + Netiley + Github account, you can create small startup business or information sharing or Portfolio sites with nearly no cost.
+With the help of Jekyll or Middleman + Github account, you can create websites for small business or information sharing or Portfolio sites.
 
 **Note** : All you have to Hire Website Developer once and Domain Name every year.   

@@ -6,7 +6,7 @@ description: Creative Website and Software Developer, Financial Engineer, Algo T
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 81 - Block-E, B.R.S. Nagar
+street_address: 81 Block-E, B.R.S. Nagar
 city: Ludhiana
 state: Punjab
 zip_code: 141001
@@ -15,7 +15,7 @@ phone: (91)9878321005
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 9
 
 # social settings
 500px_url:
